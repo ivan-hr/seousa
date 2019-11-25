@@ -9849,3 +9849,7 @@ form .row:first-child .floating-label-form-group {
 #thlogo {
   height: 75px;
 }
+
+.fa {
+  margin-left: 20px !important;
+}

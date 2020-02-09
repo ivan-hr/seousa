@@ -3,16 +3,16 @@
       <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <title>Das Zusammenspiel zwischen Usability und SEO</title>
-        <link rel="stylesheet" href=/assets/css/freelancer.css>
+        <title>{{ page.title }}</title>
+        <link rel="stylesheet" href={{"assets/css/freelancer.css" | relative_url }}>
         <script src="https://kit.fontawesome.com/e4f2b8d9e6.js" crossorigin="anonymous"></script>
-        <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.12.1/css/all.css" integrity="sha384-TxKWSXbsweFt0o2WqfkfJRRNVaPdzXJ/YLqgStggBVRREXkwU7OKz+xXtqOU4u8+" crossorigin="anonymous">
+        <link rel="stylesheet" href={{"https://pro.fontawesome.com/releases/v5.12.1/css/all.css" integrity="sha384-TxKWSXbsweFt0o2WqfkfJRRNVaPdzXJ/YLqgStggBVRREXkwU7OKz+xXtqOU4u8+" crossorigin="anonymous"}}>
       </head>
       <body>
       <!-- Navigation -->
       <nav class="navbar navbar-expand-lg bg-secondary text-uppercase fixed-top" id="mainNav">
         <div class="container">
-          <a class="navbar-brand js-scroll-trigger" href="#page-top"><img id="thlogo" src=https://ivan-hr.github.io/seousa/assets/images/logo.svg></a>
+          <a class="navbar-brand js-scroll-trigger" href="#page-top"><img id="thlogo" src={{"https://ivan-hr.github.io/seousa/assets/images/logo.svg" | relative_url}}></a>
           <button class="navbar-toggler navbar-toggler-right text-uppercase font-weight-bold bg-primary text-white rounded" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             Navigation
             <i class="fas fa-bars"></i>
@@ -20,13 +20,13 @@
           <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav ml-auto">
               <li class="nav-item mx-0 mx-lg-1">
-                <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href=https://ivan-hr.github.io/seousa/index>Start</a>
+                <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href={{"https://ivan-hr.github.io/seousa/index"}}>Start</a>
               </li>
               <li class="nav-item mx-0 mx-lg-1">
-                <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href=https://ivan-hr.github.io/seousa/seo>Seo</a>
+                <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href={{"https://ivan-hr.github.io/seousa/seo"}}>Seo</a>
               </li>
               <li class="nav-item mx-0 mx-lg-1">
-                <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href=https://ivan-hr.github.io/seousa/usability>Usability</a>
+                <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href={{"https://ivan-hr.github.io/seousa/usability"}}>Usability</a>
               </li>
             </ul>
           </div>
@@ -55,24 +55,7 @@
       <!-- Inhalte -->
       <section class="page-section portfolio" id="page-top">
         <div class="container">
-          <h1 id="das-zusammenspiel-zwischen-usability-und-seo">Das Zusammenspiel zwischen Usability und SEO</h1>
-<p>Die Inhalte auf dieses Projekts stellen Tipps und Methoden für eine verbesserte Sichtbarkeit und Nutzbarkeit von Internetseiten auf einer Github Page dar, welche im Zuge der Projektarbeit ‘Das Zusammenspiel zwischen Usability und Suchmaschinenoptimierung’ ermittelt wurden.</p>
-
-<p>Das Ziel dieser Projektarbeit war es, ein grundsätzliches Verständnis zum Thema Suchmaschinenoptimierung und Usability zu erlangen und zu vermitteln. Sowie zu untersuchen inwieweit sich diese beiden Bereiche innerhalb der Optimierung beeinflussen. Dieses Zusammenspiel der beiden Disziplinen und die Angeignung von Wissen in den Grundlagen, bzw. die vorgestellen Maßnahmen zur Optimierung können mit Hilfe von vorgestellten Werkzeugen gegen geprüft werden.</p>
-
-<p>Aus Gründen der Nachhaltigkeit, werden die Ergebnisse der Arbeit als OpenSource Projekt in diesem Repository vorgestellt. Gerne möchten wir die Leser dazu anregen, dieses Projekt zu erweitern, verbessern und ggf. mit neuen Erkenntnissen oder Methoden anzureichern.</p>
-
-<p>Link zum Projekt <a href="https://github.com/ivan-hr/seousa">Repository</a>.</p>
-
-<p>Die Projektarbeit kann <a href="#">hier</a> als PDF Dokument heruntergeladen und gelesen werden.</p>
-
-<!-- Die Projektarbeit wurde vorgelegt an der Technischen Hochschule Köln, Campus Gummersbach, Fakultät für Informatik und Ingenieurwissenschaften im Studiengang Wirtschaftsinformatik.
-
-Prüfer: Prof. Christian Noss. Gummersbach im Oktober 2019.-->
-
-<p>Thilo Kirberg und Ivan Rašić</p>
-
-
+          {{ content }}
         </div>
       </section>
 
@@ -121,18 +104,18 @@ Prüfer: Prof. Christian Noss. Gummersbach im Oktober 2019.-->
         </a>
       </div>
       <!-- Bootstrap core JavaScript -->
-      <script src=assets/vendor/jquery/jquery.min.js></script>
-      <script src=assets/vendor/bootstrap/js/bootstrap.bundle.min.js></script>
+      <script src={{"assets/vendor/jquery/jquery.min.js"}}></script>
+      <script src={{"assets/vendor/bootstrap/js/bootstrap.bundle.min.js"}}></script>
 
       <!-- Plugin JavaScript -->
-      <script src=assets/vendor/jquery-easing/jquery.easing.min.js></script>
+      <script src={{"assets/vendor/jquery-easing/jquery.easing.min.js"}}></script>
 
       <!-- Contact Form JavaScript -->
-      <script src=assets/js/jqBootstrapValidation.js></script>
-      <script src=assets/js/contact_me.js></script>
+      <script src={{"assets/js/jqBootstrapValidation.js"}}></script>
+      <script src={{"assets/js/contact_me.js"}}></script>
 
       <!-- Custom scripts for this template -->
-      <script src=assets/js/freelancer.min.js></script>
+      <script src={{"assets/js/freelancer.min.js"}}></script>
 
     </body>
 

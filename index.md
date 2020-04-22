@@ -12,10 +12,6 @@ Aus Gründen der Nachhaltigkeit, werden die Ergebnisse der Arbeit als OpenSource
 
 Link zum Projekt <a href="https://github.com/ivan-hr/seousa">Repository</a>.
 
-Die Projektarbeit kann <a href="https://github.com/ivan-hr/seousa/assets/pdf/Praxisprojekt_Thilo-Kirberg_Ivan-Rasic.pdf">hier</a> als PDF Dokument heruntergeladen und gelesen werden.
-
-<!-- Die Projektarbeit wurde vorgelegt an der Technischen Hochschule Köln, Campus Gummersbach, Fakultät für Informatik und Ingenieurwissenschaften im Studiengang Wirtschaftsinformatik.
-
-Prüfer: Prof. Christian Noss. Gummersbach im Oktober 2019.-->
+Die Projektarbeit kann <a href="/assets/pdf/Praxisprojekt_Thilo-Kirberg_Ivan-Rasic.pdf">hier</a> als PDF Dokument heruntergeladen und gelesen werden.
 
 Thilo Kirberg und Ivan Rašić

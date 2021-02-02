@@ -4,7 +4,7 @@ title: Das Zusammenspiel zwischen Usability und SEO
 ---
 
 # Das Zusammenspiel zwischen Usability und SEO
-Die Inhalte auf dieses Projekts stellen Tipps und Methoden für eine verbesserte Sichtbarkeit und Nutzbarkeit von Internetseiten auf einer Github Page dar, welche im Zuge der Projektarbeit 'Das Zusammenspiel zwischen Usability und Suchmaschinenoptimierung' ermittelt wurden.
+Die Inhalte dieses Projekts stellen Tipps und Methoden für eine verbesserte Sichtbarkeit und Nutzbarkeit von Internetseiten auf einer Github Page dar, welche im Zuge der Projektarbeit 'Das Zusammenspiel zwischen Usability und Suchmaschinenoptimierung' ermittelt wurden.
 
 Das Ziel dieser Projektarbeit war es, ein grundsätzliches Verständnis zum Thema Suchmaschinenoptimierung und Usability zu erlangen und zu vermitteln. Sowie zu untersuchen inwieweit sich diese beiden Bereiche innerhalb der Optimierung beeinflussen. Dieses Zusammenspiel der beiden Disziplinen und die Angeignung von Wissen in den Grundlagen, bzw. die vorgestellen Maßnahmen zur Optimierung können mit Hilfe von vorgestellten Werkzeugen gegen geprüft werden.
 
